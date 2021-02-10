@@ -42,8 +42,8 @@ _ eee
 ## Code 
 `
 def fun():
-       print("welcome to github workshop by apssdc")
-`
+    print("welcome to github workshop by apssdc")
+```
 ## function calling
 `
 fun()
