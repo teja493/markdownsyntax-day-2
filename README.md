@@ -28,15 +28,15 @@ jrhuierei
 1. ece
 2. EEE
 3. cse
-    1.cseA
-    1.cseB
+    1. cseA
+    1. cseB
 5. civil
 6. mech
 ## Unorderd List
-_ ece
+- ece
     + eceA
     + eceB
-_ eee
+- eee
     + eeeA
     + eeeB
     
