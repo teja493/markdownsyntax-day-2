@@ -1,2 +1,6 @@
-# markdownsyntax-day-2
-day 2 kits about markdown syntax
+# Home automation by alexa
+## components
+### circuit diagram 
+#### analysis
+##### output observation
+###### conclusion
