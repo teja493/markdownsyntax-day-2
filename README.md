@@ -62,4 +62,7 @@ void main()
 
 [google](https://www.google.com/)
 ## Add gmail link
-[gmail](email.google.com) 
+[gmail](email.google.com)
+## college link
+[college](collegelinkconsulting.com)
+
