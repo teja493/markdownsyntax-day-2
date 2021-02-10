@@ -40,7 +40,7 @@ _ eee
     + eeeA
     + eeeB
 ## Code 
-`
+```
 def fun():
     print("welcome to github workshop by apssdc")
 ```
@@ -49,10 +49,14 @@ def fun():
 fun()
 `
 ## Task
+```
 # include stdio.h
 void main()
 {
    printf("hello word")
 }
+```
+
 ## Links
-[google]("https://www.google.com/")
+
+[google](https://www.google.com/)
