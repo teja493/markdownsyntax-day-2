@@ -48,3 +48,9 @@ def fun():
 `
 fun()
 `
+## Task
+# include stdio.h
+void main()
+{
+   printf("hello word")
+}
